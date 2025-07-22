@@ -57,7 +57,7 @@ I aspire to lead national-level digital initiatives and influence policy-making 
 ## 📬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahman-sadek)  
-- 📧 Email: abdelrahmansadek.dev@gmail.com  
+- 📧 Email: abdelrahman.sadek@hotmail.com  
 - 🧠 Public Policy Vision: Egypt 2030 + Africa Integration  
 
 ---
