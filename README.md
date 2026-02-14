@@ -1,75 +1,116 @@
-# 👋 Hi, I'm Abdelrahman Sadek
+# Abdelrahman Sadek
+AI Systems Engineer | Backend Architect | Research-Driven Builder
 
-### 💼 Technology Specialist | Digital Transformation Leader | Future Public Policy Maker
-
-Welcome to my GitHub! I'm a seasoned IT professional with 10+ years of experience in digital transformation, software development, training, and public service. I'm passionate about leveraging technology to build smarter systems, empower institutions, and create real impact.
-
----
-
-## 🔧 What I Do
-
-- 🚀 **Digital Transformation Advisor**  
-  Ministry of Higher Education and Scientific Research  
-  - Automating processes with RPA  
-  - Prototyping solutions using **OutSystems**  
-  - Supporting nationwide digital infrastructure projects  
-
-- 🧠 **Technical Educator & Mentor**  
-  - Designing & delivering tech training programs  
-  - Skilled in curriculum development and team empowerment  
-  - Advocating for accessible education and capacity building  
-
-- 🧩 **Problem Solver & Systems Thinker**  
-  - Expert in breaking down complex problems  
-  - Data-driven decision-making  
-  - Always thinking strategically with long-term impact in mind
+Building scalable AI systems, distributed architectures, and production-grade backend platforms.
 
 ---
 
-## 💡 Vision
+## 🚀 What I Do
 
-I aspire to lead national-level digital initiatives and influence policy-making through technology. I believe in ethical innovation, social responsibility, and transparent governance.
+I design and build systems where:
 
-> **"Technology must serve people – not replace them."**
+- AI models evolve over time (dynamic learning systems)
+- Backend architectures scale reliably
+- Multi-agent systems collaborate intelligently
+- Infrastructure supports real-world institutional environments
 
----
-
-## ⚙️ Skills & Tools
-
-- **Languages:** Python, JavaScript, HTML, PHP, SQL  
-- **Frameworks:** OutSystems, Laravel, Node.js  
-- **Tools:** GitHub, Google Workspace Admin, Make.com, AppSheet  
-- **Other:** RPA (UiPath), OCR, APIs, ChatGPT, Data Analytics  
-
----
-
-## 🌍 Projects I'm Proud Of
-
-- 🧾 **Automated PDF to Google Sheets System**  
-  OCR-based pipeline integrated with AppSheet for data visualization  
-- 📢 **Mass Messaging from Google Sheets**  
-  Low-code communication tool using GSM number replies  
-- 🧠 **AI for Agriculture & Public Policy**  
-  Exploring smart food systems and policy reform using AI  
+My work sits at the intersection of:
+- Artificial Intelligence
+- Distributed Systems
+- Backend Engineering
+- Digital Transformation
 
 ---
 
-## 📬 Let's Connect
+## 🧠 Research & Experimental Work
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahman-sadek)  
-- 📧 Email: abdelrahman.sadek@hotmail.com  
-- 🧠 Public Policy Vision: Egypt 2030 + Africa Integration  
+### CLE-Net — Continuous Learning Embedding Network
+A dynamic graph learning model designed for temporal knowledge evolution.
+
+- Continuous embedding updates for evolving networks
+- Adaptive learning mechanisms for temporal graphs
+- Benchmark-oriented architecture (DynamicTriad, VGRNN comparisons in progress)
+- Designed for reproducible experimentation
+
+Repository:
+👉 https://github.com/Abdelrahman-sadek/CLE-Net
 
 ---
 
-## ✨ Fun Facts
+## 🏗 Systems & Backend Engineering
 
-- I once built an entire training program that reached over 1,000 students in a single year.  
-- I believe Egypt can lead Africa’s tech future through smart, local solutions.  
-- I’m inspired by thinkers who merge logic with empathy.
+I build:
+
+- RESTful APIs
+- SaaS architectures
+- Scalable database systems
+- Automation pipelines
+- Firebase-based applications
+- Government-grade internal systems
+
+Experienced in designing systems that must operate reliably in real-world environments — not just demos.
 
 ---
 
-> **“Tech is only as good as the values of the people behind it.”**  
+## 🛠 Technical Stack
 
-Thanks for visiting! ⭐️
+### Languages
+Python · JavaScript · TypeScript · PHP · SQL
+
+### AI & Machine Learning
+PyTorch · Graph Learning · Dynamic Embeddings · Temporal Models
+
+### Backend & Databases
+Node.js · Express · Firebase · MySQL · Firestore
+
+### Systems & Infrastructure
+Linux · Git · Docker · CI/CD · Cloud Architectures
+
+---
+
+## 🏛 Professional Experience
+
+Technical Support Engineer  
+Central Department of Information Systems & Digital Transformation  
+Ministry of Higher Education & Scientific Research – Egypt
+
+Working on:
+- Infrastructure coordination
+- Systems deployment & maintenance
+- Digital operations support
+- Technical integration across departments
+
+Bridging operational systems with scalable digital solutions.
+
+---
+
+## 🔭 Current Focus
+
+- Dynamic Graph Representation Learning
+- Multi-Agent Knowledge Networks
+- AI-assisted system architecture
+- Scalable SaaS product development
+- Distributed computing models
+
+---
+
+## 🌍 Vision
+
+I’m exploring a future where:
+
+- Knowledge systems update themselves continuously
+- AI agents collaborate and share structured memory
+- Infrastructure is intelligent by design
+- National-scale systems are built with modern engineering principles
+
+---
+
+## 📫 Connect
+
+GitHub: https://github.com/Abdelrahman-sadek  
+LinkedIn: https://www.linkedin.com/in/abdelrahman-sadek90/
+Email: (optional)
+
+---
+
+> “Build systems that think. Build infrastructure that lasts.”
