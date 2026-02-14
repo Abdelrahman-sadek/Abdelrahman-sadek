@@ -109,7 +109,6 @@ I’m exploring a future where:
 
 GitHub: https://github.com/Abdelrahman-sadek  
 LinkedIn: https://www.linkedin.com/in/abdelrahman-sadek90/
-Email: (optional)
 
 ---
 
