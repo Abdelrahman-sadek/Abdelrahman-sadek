@@ -1,115 +1,49 @@
 # Abdelrahman Sadek
-AI Systems Engineer | Backend Architect | Research-Driven Builder
+Senior Software Engineer | RPA & Intelligent Automation | Backend and AI Systems
 
-Building scalable AI systems, distributed architectures, and production-grade backend platforms.
+Senior Software Engineer with 12+ years in software delivery, focused on backend systems, UiPath automation and practical AI tools.
 
----
-
-## 🚀 What I Do
-
-I design and build systems where:
-
-- AI models evolve over time (dynamic learning systems)
-- Backend architectures scale reliably
-- Multi-agent systems collaborate intelligently
-- Infrastructure supports real-world institutional environments
-
-My work sits at the intersection of:
-- Artificial Intelligence
-- Distributed Systems
-- Backend Engineering
-- Digital Transformation
+Portfolio: https://me.higher-institute.tech
 
 ---
 
-## 🧠 Research & Experimental Work
+## What I work on
 
-### CLE-Net — Continuous Learning Embedding Network
-A dynamic graph learning model designed for temporal knowledge evolution.
-
-- Continuous embedding updates for evolving networks
-- Adaptive learning mechanisms for temporal graphs
-- Benchmark-oriented architecture (DynamicTriad, VGRNN comparisons in progress)
-- Designed for reproducible experimentation
-
-Repository:
-👉 https://github.com/Abdelrahman-sadek/CLE-Net
+- **Automation:** UiPath RPA for ministry-wide administrative workflows
+- **Backend and web systems:** PHP/Laravel, Python, MySQL, REST APIs, Vue.js
+- **AI tooling:** RAG assistants with guardrails, agents, MCP tooling
 
 ---
 
-## 🏗 Systems & Backend Engineering
+## Selected projects
 
-I build:
+### [AUC Library Assistant & Agent Kit](https://github.com/Abdelrahman-sadek/AUC-starterkit)
+Cited answers about AUC Libraries in English, Arabic and Franco-Arabic. OCR, hybrid RAG, guarded chat, a staff dashboard, and 20 lean agent definitions. Independent project, not affiliated with AUC.
 
-- RESTful APIs
-- SaaS architectures
-- Scalable database systems
-- Automation pipelines
-- Firebase-based applications
-- Government-grade internal systems
+### [AI Trend Radar](https://github.com/Abdelrahman-sadek/ai-trend-radar)
+Web app that ranks what is trending in AI by combining signals from independent sources such as GitHub, Hacker News, Reddit and arXiv.
 
-Experienced in designing systems that must operate reliably in real-world environments — not just demos.
+### [MCP Hub](https://github.com/Abdelrahman-sadek/mcp-hub)
+Registry and gateway for Model Context Protocol servers: discovery, health monitoring and proxying on Cloudflare Workers and Pages.
 
----
-
-## 🛠 Technical Stack
-
-### Languages
-Python · JavaScript · TypeScript · PHP · SQL
-
-### AI & Machine Learning
-PyTorch · Graph Learning · Dynamic Embeddings · Temporal Models
-
-### Backend & Databases
-Node.js · Express · Firebase · MySQL · Firestore
-
-### Systems & Infrastructure
-Linux · Git · Docker · CI/CD · Cloud Architectures
+### [CLE-Net](https://github.com/Abdelrahman-sadek/CLE-Net)
+Research project on continuously learning embeddings and agent networks, in Python.
 
 ---
 
-## 🏛 Professional Experience
+## Experience
 
-Technical Support Engineer  
-Central Department of Information Systems & Digital Transformation  
-Ministry of Higher Education & Scientific Research – Egypt
-
-Working on:
-- Infrastructure coordination
-- Systems deployment & maintenance
-- Digital operations support
-- Technical integration across departments
-
-Bridging operational systems with scalable digital solutions.
+**Senior Software Engineer**, Ministry of Higher Education & Scientific Research, Egypt (Sep 2023 to present)
+Leads RPA initiatives with UiPath to automate administrative processes. Earlier at the Ministry: full-stack systems in Laravel, Vue.js and MySQL for exam-committee distribution, HR administration and correspondence management.
 
 ---
 
-## 🔭 Current Focus
+## Tech
 
-- Dynamic Graph Representation Learning
-- Multi-Agent Knowledge Networks
-- AI-assisted system architecture
-- Scalable SaaS product development
-- Distributed computing models
+Python · PHP · Laravel · JavaScript · TypeScript · Vue.js · MySQL · UiPath · Linux · Git
 
 ---
 
-## 🌍 Vision
+## Connect
 
-I’m exploring a future where:
-
-- Knowledge systems update themselves continuously
-- AI agents collaborate and share structured memory
-- Infrastructure is intelligent by design
-- National-scale systems are built with modern engineering principles
-
----
-
-## 📫 Connect
-
-GitHub: https://github.com/Abdelrahman-sadek  
-LinkedIn: https://www.linkedin.com/in/abdelrahman-sadek90/
-
----
-
-> “Build systems that think. Build infrastructure that lasts.”
+[Portfolio](https://me.higher-institute.tech) · [LinkedIn](https://www.linkedin.com/in/abdelrahman-sadek90/)
